@@ -1,4 +1,4 @@
-# EDA Power BI Dashboard
+# Power BI Dashboard
 
 This repository contains a Power BI Dashboard for performing Exploratory Data Analysis (EDA) on a dataset.
 
